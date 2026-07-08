@@ -1,2 +1,2 @@
 # Delta-test
-This is just practice 
+This is just practice.
