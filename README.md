@@ -1,5 +1,5 @@
 # Delta-test
 This is just practice.
 
-# Student 
+# Student
 This is just practice.
